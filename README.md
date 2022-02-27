@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/DevyMatthew)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/mati_bednarczyk/)
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp;
 
 I'm high school student 🎓 from ZSE Olsztyn 🏛. I am passionate of programming, but also, I love music production 💡. I love to explore new technologies and making my own solutions for real life problems, my bussines and etc.✨👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my skills in java, sprinboot, hibernate, thymeleaf and angular. Currently, I plan to go through microservices🤓.
 
