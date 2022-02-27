@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I'm high school student 🎓 from ZSE Olsztyn 🏛. I am passionate of programming, but also, I love music production 💡. I love to explore new technologies and making my own solutions for real life problems, my bussines and etc.✨👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my skills in java, sprinboot, hibernate, thymeleaf and angular. Currently, I plan to go through microservices🤓.
+I am a high school student at ZSE Olsztyn. In addition to programming, I am passionate about music production as well. My interests include exploring new technologies and making my own solutions to real-life problems, my business, etc.  I am currently studying web development and working on my skills in java, springboot, hibernate, thymeleaf and angular. I plan to study microservices in the near future.
 
 Joined Github **November 2021**.
 
@@ -19,19 +19,19 @@ Like My Work?
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 
-### Talking about Personal Stuffs:
+### Personal Stuff Talk:
 
-- 🛠 &nbsp; I'm currently working with springboot (for backend) and thymeleaf (as frontend framework)
-- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 🛠 &nbsp; My current projects includes springboot (as a backend framework) and thymeleaf (as a frontend framework)
+- 🚀 &nbsp; Currently, I am learning full stack development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
-- 💬 &nbsp; Ask me about anything (DevyMatthew#9841)! I am happy to help.
+- 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
 - 👾 &nbsp; Fun fact: Java>C#
 - 📫 &nbsp; How to reach me: matib004@gmail.com
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
-- 📰 &nbsp; I really like to learn new things in free time.
+- 💻 &nbsp; I love to experiment with new tech stacks and build cool things.
+- 📰 &nbsp; During free time, I enjoy learning new things. 
 - 🍕 &nbsp; I like pizza.
 
 ### Languages and Tools:
@@ -71,3 +71,5 @@ Like My Work?
 ### Show some ❤️ by starring some of the repositories!
 
 </div>
+
+
