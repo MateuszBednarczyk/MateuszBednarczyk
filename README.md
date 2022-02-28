@@ -21,7 +21,7 @@ Like My Work?
 
 ### Personal Stuff Talk:
 
-- 🛠 &nbsp; My current projects includes springboot (as a backend framework) and thymeleaf (as a frontend framework)
+- 🛠 &nbsp; My current projects include springboot (as a backend framework) and thymeleaf (as a frontend framework)
 - 🚀 &nbsp; Currently, I am learning full stack development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
 - 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
