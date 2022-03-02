@@ -55,11 +55,11 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS:</b> Windows 10</li>
+  	    <li><b>OS: </b> Windows 10</li>
 	    <li><b>Laptop: </b>Lenovo ideapad gaming (r7 4800h, gtx1650ti, 16gb ddr4 3200mhz</li>
   	    <li><b>Browser: </b>Google chrome/Brave</li>
-	    <li><b>Code Editor:</b>Jetbrains intelliJ</li>
-	    <li><b>To Stay Updated:</b>Discord, Linkedin and Twitter.</li>
+	    <li><b>Code Editor: </b>Jetbrains intelliJ</li>
+	    <li><b>To Stay Updated: </b>Discord, Linkedin and Twitter.</li>
 	    <br />
 	</ul>	
 </details>
