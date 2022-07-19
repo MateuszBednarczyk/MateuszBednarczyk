@@ -38,8 +38,6 @@ Like My Work?
 <code><img height="27" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" alt="springboot"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" alt="thymeleaf"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" alt="cpp"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" alt="mysql"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
@@ -53,8 +51,7 @@ Like My Work?
   <br />
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
-  	    <li><b>OS: </b> Windows 10</li>
-	    <li><b>Laptop: </b>Lenovo ideapad gaming (r7 4800h, gtx1650ti, 16gb ddr4 3200mhz)</li>
+  	    <li><b>OS: </b>Zorin OS (ubuntu fork)</li>
   	    <li><b>Browser: </b>Google chrome/Brave</li>
 	    <li><b>Code Editor: </b>Jetbrains intelliJ</li>
 	    <li><b>To Stay Updated: </b>Discord, Linkedin and Twitter.</li>
