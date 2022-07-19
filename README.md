@@ -41,9 +41,8 @@ Like My Work?
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" alt="mysql"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
+<code><img heigh="27> src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-<code><img height="27" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="c#"></code>
-<code><img height="27" src="https://vm.pl/assets/media/technologie/dot-net/wpf.png" alt="wpf"></code>
 
 
 ### Projects and Dev Stuffs:
