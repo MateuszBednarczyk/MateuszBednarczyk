@@ -10,13 +10,6 @@ I am a high school student at ZSE Olsztyn. In addition to programming, I am pass
 
 Joined Github **November 2021**.
 
-Like My Work?
-
-<a href="https://www.buymeacoffee.com/devymatt?new=1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
-
-
 ### Personal Stuff Talk:
 
 - 🛠 &nbsp; My current projects include springboot (as a backend framework) and thymeleaf (as a frontend framework)
@@ -43,22 +36,6 @@ Like My Work?
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
 <code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" alt="postgreSQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-
-
-### Projects and Dev Stuffs:
-<details>	
-  <br />
-  <summary><b>⚙️ Things I use to get stuff done</b></summary>
-  	<ul>
-  	    <li><b>OS: </b>Zorin OS (ubuntu fork)</li>
-  	    <li><b>Browser: </b>Google chrome/Brave</li>
-	    <li><b>Code Editor: </b>Jetbrains intelliJ</li>
-	    <li><b>To Stay Updated: </b>Discord, Linkedin and Twitter.</li>
-	    <br />
-	</ul>	
-</details>
-
-#
 
 <div align="center">
 
