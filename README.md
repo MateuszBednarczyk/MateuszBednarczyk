@@ -12,7 +12,7 @@ Joined Github **November 2021**.
 
 ### Personal Stuff Talk:
 
-- 🛠 &nbsp; My current projects include springboot (as a backend framework) and thymeleaf (as a frontend framework)
+- 🛠 &nbsp; My current projects include springboot (as a backend framework).
 - 🚀 &nbsp; Currently, I am learning full stack development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
 - 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
@@ -30,7 +30,6 @@ Joined Github **November 2021**.
 <code><img height="27" src="http://codecouple.pl/wp-content/uploads/2017/02/java-logo.png" alt="java"></code>
 <code><img height="27" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" alt="springboot"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Angular_full_color_logo.svg/800px-Angular_full_color_logo.svg.png" alt="angular"></code>
-<code><img height="27" src="https://raw.githubusercontent.com/thymeleaf/thymeleaf-org/main/artwork/thymeleaf%202016/thymeleaf_logo_white.png" alt="thymeleaf"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" alt="mysql"></code>
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
