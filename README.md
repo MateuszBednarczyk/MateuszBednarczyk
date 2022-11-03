@@ -35,8 +35,3 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
 <code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" alt="postgreSQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
-
-<div align="center">
-</div>
-
-
