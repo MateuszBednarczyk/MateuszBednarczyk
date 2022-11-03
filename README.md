@@ -13,7 +13,7 @@ Joined Github **November 2021**.
 ### Personal Stuff Talk:
 
 - 🛠 &nbsp; My current projects include springboot (as a backend framework).
-- 🚀 &nbsp; Currently, I am learning full stack development.
+- 🚀 &nbsp; Currently, I am learning Backend development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
 - 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
 - 👾 &nbsp; Fun fact: Java>C#
