@@ -37,9 +37,6 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 <div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
 </div>
 
 
