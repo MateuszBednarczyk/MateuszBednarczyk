@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a high school student at ZSE Olsztyn. In addition to programming, I am passionate about music production as well. My interests include exploring new technologies and making my own solutions to real-life problems, my business, etc.  I am currently studying web development and working on my skills in java, springboot, hibernate, thymeleaf and angular. I plan to study microservices in the near future.
+I am a high school student at ZSE Olsztyn. In addition to programming, I am passionate about music production as well. My interests include exploring new technologies and making my own solutions to real-life problems, my business, etc.  I am currently studying web development and working on my skills in java, springboot. I'm also kinda golang enthusiast :)
 
 Joined Github **November 2021**.
 
