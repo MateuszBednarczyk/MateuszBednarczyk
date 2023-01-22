@@ -34,5 +34,5 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" alt="postgreSQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical&hide=JavaScript, TypeScript, vue, html, css)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBednarczyk&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
