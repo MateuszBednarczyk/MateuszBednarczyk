@@ -34,7 +34,9 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" alt="postgreSQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
-<div align="center" heigh=220rem>
-<a href = "https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBednarczyk&theme=radical&hide=html,vue,css,TypeScript,JavaScript,Python,SCSS)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk&" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk" />
+</a>
