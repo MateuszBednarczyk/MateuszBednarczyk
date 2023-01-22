@@ -35,8 +35,8 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk&" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=MateuszBednarczyk&repo=convoychat" />
 </a>
