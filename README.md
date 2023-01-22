@@ -35,6 +35,6 @@ Joined Github **November 2021**.
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 <div align="center" heigh=220rem>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical)
+<a href = "https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateuszBednarczyk&theme=radical&hide=html,vue,css,TypeScript,JavaScript,Python,SCSS)](https://github.com/anuraghazra/github-readme-stats)
 </div>
