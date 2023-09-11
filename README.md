@@ -16,7 +16,7 @@ Joined Github **November 2021**.
 - 🚀 &nbsp; Currently, I am learning Backend development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
 - 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
-- 👾 &nbsp; Fun fact: Java>Golang>C#
+- 👾 &nbsp; Fun fact: Golang>Java>C#
 - 📫 &nbsp; How to reach me: matib004@gmail.com
 
 ### My Absolute Favorites:
