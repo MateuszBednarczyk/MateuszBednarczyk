@@ -6,7 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a high school student at ZSE Olsztyn. In addition to programming, I am passionate about music production as well. My interests include exploring new technologies and making my own solutions to real-life problems, my business, etc.  I am currently studying web development and working on my skills in java, springboot. I'm also kinda golang enthusiast :)
+Hi! I am backend developer at Programiści Sp. z o.o. I am passionate about music production as well. My interests include exploring new technologies and making my own solutions to real-life problems. Currently, I'm working with Java for the most of time.
 
 Joined Github **November 2021**.
 
@@ -15,15 +15,13 @@ Joined Github **November 2021**.
 - 🛠 &nbsp; My current projects include springboot (as a backend framework).
 - 🚀 &nbsp; Currently, I am learning Backend development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/MateuszBednarczyk).
-- 💬 &nbsp; Ask me about anything at discord (DevyMatthew#9841)! I am happy to help.
-- 👾 &nbsp; Fun fact: Golang>Java>C#
 - 📫 &nbsp; How to reach me: matib004@gmail.com
 
 ### My Absolute Favorites:
 
 - 💻 &nbsp; I love to experiment with new tech stacks and build cool things.
-- 📰 &nbsp; During free time, I enjoy learning new things. 
-- 🍕 &nbsp; I like pizza.
+- 📰 &nbsp; In my free time, I enjoy learning new things. 
+- 🍕 &nbsp; I like good food.
 
 ### Languages and Tools:
 
