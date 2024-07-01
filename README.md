@@ -27,9 +27,7 @@ Joined Github **November 2021**.
 
 <code><img height="27" src="http://codecouple.pl/wp-content/uploads/2017/02/java-logo.png" alt="java"></code>
 <code><img height="27" src="https://miro.medium.com/max/856/1*O68LbDvD5Dcsnez73M7v4Q.png" alt="springboot"></code>
-<code><img height="27" src="https://cdn.liveagent.com/app/uploads/2020/11/MySQL-Logo.png" alt="mysql"></code>
-<code><img height="27" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/PhpMyAdmin_logo.svg/2560px-PhpMyAdmin_logo.svg.png" alt="phpmyadmin"></code>
-<code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg" alt="postgreSQL"></code>
+<code><img height="27" src="https://wiki.postgresql.org/wiki/File:PostgreSQL_logo.3colors.svg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUmnFYeOmmAlNV9_ZTu5cYgS2L55Q1pt9QyA&s" alt="postgreSQL"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszBednarczyk&show_icons=true&theme=radical)
